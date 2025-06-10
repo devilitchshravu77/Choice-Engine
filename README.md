@@ -77,4 +77,3 @@ The project includes:
 
 - *Review 0:* ✅ Qualified  
 - *Review 1:* ✅ Qualified  
-- *Review 2 (Final Submission):* 🟢 Active
